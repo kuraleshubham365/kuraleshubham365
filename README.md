@@ -2,7 +2,7 @@
 
 🚀 Site Reliability Engineer | Cloud Engineer | DevOps | DevSecOps | Cloud Security  
 ☁️ Google Cloud Certified – Professional Cloud Architect  
-🔐 Infrastructure Security Advocate | Automation Enthusiast | Reliability First  
+🔐 Infrastructure Security | Automation Enthusiast | Reliability First  
 
 ---
 
