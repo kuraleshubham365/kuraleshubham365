@@ -103,18 +103,6 @@ I believe in:
 
 ---
 
-## 🧪 Featured Projects (Pinned Repositories)
-
-🔹 Terraform GCP Production Infrastructure  
-🔹 Secure GKE Cluster Blueprint  
-🔹 DevSecOps CI/CD Pipeline  
-🔹 Automated Backup & Restore System  
-🔹 Cloud Security Audit Toolkit  
-🔹 Kubernetes Monitoring Stack  
-🔹 Zero Trust Architecture Demo  
-
----
-
 ## 📈 What I’m Currently Working On
 
 - Advanced GKE security hardening
